@@ -1,1 +1,1 @@
-# Rock-Paper-and-Scissor-Game-Tkinter-
+# Rock-Paper-and-Scissor-Game-Tkinter
